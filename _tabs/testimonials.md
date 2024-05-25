@@ -13,4 +13,4 @@ Perhaps most impressive was Brandon’s dedication to this project’s success. 
 
 Nathan French, Director of IT
 
-<p style="text-align: left"><img src="./assets/img/elite-logo.jpg" alt="">></p>
+<p style="text-align: left"><img src="./assets/img/elite-logo.jpg" alt=""></p>
