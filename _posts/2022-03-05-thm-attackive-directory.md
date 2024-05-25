@@ -152,4 +152,4 @@ The svc-admin account will have the file user.txt.txt
 
 <p class="body"><img class="body" src="./assets/img/posts/attacktivedirectory/image22.png"></p>
 
-If you have made it this far successfully then congrats you have successfully compromised a Domain Controller (DC) and have the crown jewels of the environment.
+If you have made it this far successfully then congrats you have successfully compromised a Domain Controller (DC) and have the crown jewels of the Windows enterprise environment.
