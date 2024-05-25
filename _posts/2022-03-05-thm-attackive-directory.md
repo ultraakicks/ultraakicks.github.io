@@ -17,7 +17,7 @@ image:
 
 In this room we will be using the following tools to compromise a Domain Controller (DC) in order to gain access to the crown jewels of the environment:
 
-Tools Used: Nmap, Kerbrute, Impacket, Enum4Linux, Hashcat, SMBClient, and Secretsdump
+**Tools Used:** Nmap, Kerbrute, Impacket, Enum4Linux, Hashcat, SMBClient, and Secretsdump
 
 TryHackMe Link: https://tryhackme.com/room/attackivedirectory
 
