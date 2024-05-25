@@ -1,6 +1,6 @@
 ---
 layout: tags
-icon: fas fa-tags
+icon: fas fa-markers
 order: 5
 ---
 
