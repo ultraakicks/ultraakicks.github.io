@@ -7,7 +7,7 @@ pin: true
 tags: jekyll cd-tech ctn digital-equity tech-for-good
 image: 
   path: /assets/img/posts/ha.jpg
-  lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/
+  #lqip: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/
 ---
 ## Home Assistant Installation (VMWare Workstation)
 
