@@ -31,26 +31,26 @@ Step 1) Login to the Intune portal by navigating to https://intune.microsoft.com
 
 Step 2) On the left side, click on the Devices > Manage devices > Scripts and remediations
 
-<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image01.png"></p>
+<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image01.png" alt=""></p>
 
 Step 3) Under the Remediations tab, click Create.
 
-<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image02.png"></p>
+<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image02.png" alt=""></p>
 
 Step 4) Add a name and description to the remediation and click Next.
 
-<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image03.png"></p>
+<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image03.png" alt=""></p>
 
 Step 5) Upload the detection script file that I have provided in my GitHub below as a .ps1 file.
 
 IntuneScripts/GetBitLockerVolumeStatus.ps1 at main · ultraakicks/IntuneScripts (github.com)
 
-<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image04.png"></p>
+<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image04.png" alt=""></p>
 
 
 Step 6) On the bottom settings you will want the first two to be set the No and the third to be set to Yes as shown then click Next.
 
-<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image05.png"></p>
+<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image05.png" alt=""></p>
 
 Step 7) Use the scope tags or assignments sections to scope to the devices you want to target, then review and create the detection script.
 
@@ -58,23 +58,23 @@ NOTE: The script is scheduled to run once every hour when the device checks in.
 
 Step 8) Once the script is run on the device (s), you can navigate to the script > Monitor > Device Status.
 
-<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image06.png"></p>
+<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image06.png" alt=""></p>
 
 Step 9) Click on Columns and add the Column Pre-remediation detection output and click Apply.
 
-<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image07.png"></p>
+<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image07.png" alt=""></p>
 
 Step 10) Now on the page, you will see the output from the script for each device scoped to the detection script.
 
-<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image08.png"></p>
+<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image08.png" alt=""></p>
 
 By clicking Review you can see the full output
 
-<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image09.png"></p>
+<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image09.png" alt=""></p>
 
 You can also Export this to Excel for further analysis.
 
-<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image10.png"></p>
+<p class="body"><img class="body" src="./assets/img/posts/bitlockerentraid/image10.png" alt=""></p>
 ## Conclusion
 
 The guide I have provided comprehensively lays out each step required to enable efficient reporting on crucial metrics for BitLocker within Intune. By following the outlined procedures, Intune Administrators can effectively setup a detection script for BitLocker reporting for Security and Compliance.
