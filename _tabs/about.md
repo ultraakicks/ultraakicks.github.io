@@ -13,6 +13,6 @@ I am currently working as an Information Security Engineer with a total of 6 yea
 
 In my bachelor’s degree in computer science, I took a course in system vulnerability and analysis, and it got me very interesting in the tools, tactics and techniques being used by hackers in the real world. I also have my master’s degree in Cybersecurity in December of 2021 where I was able to obtain my Certified Ethical Hacker (CEH) certification from ECCouncil. I plan on using to block to post various write ups for the machines on TryHackMe, blue team guides to secure systems as well as personal tech projects that I am doing on the side.
 
-(ultrakicks@kali)-[~] whoami
+(brandon@kali)-[~] whoami
 
 root
