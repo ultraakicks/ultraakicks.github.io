@@ -23,7 +23,7 @@ The YubiKey is a revolutionary hardware security key that offers an extra layer 
 
 The YubiKey employs various authentication protocols, such as FIDO2 and U2F, making it highly versatile and secure. Its physical presence requirement means that hackers cannot gain access to your accounts remotely, providing robust protection against phishing attempts. Invest in a YubiKey to fortify your online defenses and keep your sensitive data out of the wrong hands.
 
-<p class="body"><img class="body" src="./assets/img/posts/securitymusthaves/image01.png" alt=""></p>
+<p class="body"><a href="https://amzn.to/3Y8c4lo"><img class="body" src="./assets/img/posts/securitymusthaves/image01.png" alt=""></a></p>
 
 ## 2 – Camera Blocker: Safeguarding Your Privacy
 
@@ -31,7 +31,7 @@ In a world where cameras are ubiquitous in our devices, ensuring your privacy is
 
 Camera blockers act as a physical barrier, preventing unauthorized access to your cameras by hackers or malicious software. By using a camera blocker, you can thwart potential spying attempts and rest assured that your private moments remain private.
 
-<p class="body"><img class="body" src="./assets/img/posts/securitymusthaves/image02.png" alt=""></p>
+<p class="body"><a href="https://amzn.to/3rCzrY6"><img class="body" src="./assets/img/posts/securitymusthaves/image02.png" alt=""></a></p>
 
 ## 3 – RFID Wallet: Defending Against Digital Pickpockets
 
@@ -39,7 +39,7 @@ As technology advances, so do the tactics of cybercriminals. Radio Frequency Ide
 
 An RFID-blocking wallet shields your cards and personal information from such attacks. These wallets feature a special lining that blocks electromagnetic signals, ensuring that your sensitive data remains secure. Carry an RFID wallet to protect your finances and identity while on the go.
 
-<p class="body"><img class="body" src="./assets/img/posts/securitymusthaves/image03.png" alt=""></p>
+<p class="body"><a href="https://amzn.to/3DuaeSp"><img class="body" src="./assets/img/posts/securitymusthaves/image03.png" alt=""></a></p>
 
 ## 4 – USB Data Blocker: Charge Safely, Without Compromising Data
 
@@ -47,7 +47,7 @@ When charging your devices in public places or using unfamiliar USB ports, you e
 
 By blocking the data pins in a USB port, these devices enable power transfer while preventing any data transfer. This means you can confidently charge your smartphone or tablet without worrying about your data being stolen or compromised.
 
-<p class="body"><img class="body" src="./assets/img/posts/securitymusthaves/image04.png" alt=""></p>
+<p class="body"><a href="https://amzn.to/44I6Zmi"><img class="body" src="./assets/img/posts/securitymusthaves/image04.png" alt=""></a></p>
 
 ## Extra for Enthusists – Raspberry Pi: Build Your Custom Security Solutions
 
@@ -55,7 +55,7 @@ While the products mentioned above focus on enhancing your security, a Raspberry
 
 With the Raspberry Pi’s flexibility and vast community support, you can tailor security solutions to suit your specific needs, making it an invaluable tool for tech enthusiasts and security-conscious individuals alike.
 
-<p class="body"><img class="body" src="./assets/img/posts/securitymusthaves/image05.png" alt=""></p>
+<p class="body"><a href="https://amzn.to/3Dt03xl"><img class="body" src="./assets/img/posts/securitymusthaves/image05.png" alt=""></a></p>
 
 ## Conclusion
 
